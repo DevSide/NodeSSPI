@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "bindings": "^1.1.1",
-    "nan": "^2.10.0"
+    "nan": "^2.11.1"
   },
   "engines": {
     "node": ">=4.0.0"
